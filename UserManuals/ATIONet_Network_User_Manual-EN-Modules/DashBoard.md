@@ -117,3 +117,7 @@ All terminals that are natively connected to ATIONet send a regular message indi
 The column **Age** shows the number of minutes since the last time the terminal was reported. 
 
 ![Terminal Status](https://github.com/Ationet/ationetdocs/blob/master/Content/Images/User%20Manual%20ATIONet/Dashboard/Terminal%20Status.PNG)
+
+<br>
+
+[Back to top](#contents)  :arrow_up:
