@@ -6,7 +6,7 @@
 
 ## Functional Documentation
 
-### Multimoneda
+### Multicurrency
 - [ATIONET Multicurrency (Spanish)](https://github.com/nuchavez/ationetdocs/blob/master/Multicurrency-ES.MD)
 - [ATIONET Multicurrency (English)](https://github.com/nuchavez/ationetdocs/blob/master/Multicurrency-EN.MD)
 
