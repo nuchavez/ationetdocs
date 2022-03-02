@@ -5,7 +5,7 @@
 |**Archivo:**|Consumer Card-ES.MD|
 |**Versión Doc:**|1.0|
 |**Fecha Liberación:**|25, Mar 2022|
-|**Autor:**|ATIONet LLC|
+|**Autor:**|ATIONET LLC|
 
 
 |**Bitácora de Cambios**|||
@@ -17,21 +17,21 @@
 # Contenido
 
 - [Consumer Card](#consumercard) 	
-    - [Autorizaciones Pendientes](#autorizacionespendientes)
+    - [Autorizaciones Pendientes](#autorizaciones-pendientes)
     - [Configuración](#configuración) 
     - [Contingencias](#contingencias) 
-    - [Documentos de Cargos](#documentosdecargos) 
-    - [Documentos de Liquidaciones](#documentosdeliquidaciones) 
+    - [Documentos de Cargos](#documentos-de-cargos) 
+    - [Documentos de Liquidaciones](#documentos-de-liquidaciones) 
     - [Errores](#errores) 
-    - [Estados de Cuenta](#estadosdecuenta) 
-    - [Items Liquidados](#itemsliquidados) 
+    - [Estados de Cuenta](#estados-de-cuenta) 
+    - [Items Liquidados](#items-liquidados) 
     - [Movimientos](#movimientos) 
-    - [Procesos de Liquidación](#procesosdeliquidacion) 
+    - [Procesos de Liquidación](#procesos-de-liquidación) 
     - [Recargas](#recargas) 
     - [Tarjetas](#tarjetas) 
-    - [Tarjetas Solicitadas](#tarjetassolicitadas) 
+    - [Tarjetas Solicitadas](#tarjetas-solicitadas) 
     - [Transacciones](#transacciones) 
-    - [Transacciones Rechazadas](#transaccionesrechazadas) 
+    - [Transacciones Rechazadas](#transacciones-rechazadas) 
 
 <br>
 
@@ -75,7 +75,10 @@ Esto cancelará las transacciones y devolverá el saldo reservado a cada una de 
 
 ![Combustible](https://github.com/nuchavez/ationetdocs/blob/master/Content/Images/Consumer%20Card/Configuraci%C3%B3n%20Consumer%20Card%20Combustible.PNG)
 
+Ingresar el código o descripción del combustible que se quiere agregar 
 </br>
+
+![Agregar combustible](https://github.com/nuchavez/ationetdocs/blob/master/Content/Images/Consumer%20Card/Configuraci%C3%B3n%20Consumer%20Card%20Combustible%20agregar.PNG)
 
 ### Sitios
 
