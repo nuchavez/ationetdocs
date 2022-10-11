@@ -76,6 +76,8 @@
 	- [Transacciones por Flota](#transacciones-por-flota)
 	- [Transacciones por Vehículo](#transacciones-por-vehículo)
 	- [Transacciones Rechazadas](#transacciones-rechazadas)
+	- [Vales](#vales)
+	- [Vales - Administración](#vales---administración)
 - [Liquidaciones](#liquidaciones)
 	- [Cargos Externos](#cargos-externos)
 	- [Documentos de Cargo](#documentos-de-cargo)
@@ -762,6 +764,21 @@ ATIONET separa las transacciones no autorizadas en 2 secciones: [Excepciones](#e
 En esta vista, al principio se puede filtrar por el tipo de rechazo. Los tipos de rechazo disponibles son los siguientes:
 
 ![Transacciones Rechazadas Filtros](https://github.com/Ationet/ationetdocs/blob/master/Content/Images/Manual%20Usuario%20ATIONet/Flotas/Transacciones%20Rechazadas%20Filtros.PNG)
+
+## Vales
+Dentro de esta sección se puede ver un listado de todos los vales creados por las compañías. Para facilitar las consultas, hay un panel de filtros en la parte superior.
+
+![Vales](https://github.com/nuchavez/ationetdocs/blob/master/Content/Images/Manual%20Usuario%20ATIONet/Flotas/Vales.PNG)
+
+## Vales - Administración
+Dentro de esta sección se puede ver un listado de todas las ordenes de vales creados por las compañías de la Network. Para facilitar las consultas, hay un panel de filtros en la parte superior, en el cual se puede buscar por <i>Contrato, Programa, Fecha desde, Hora desde, Fecha hasta y Hora hasta</i>.
+
+![Vales - Administración](https://github.com/nuchavez/ationetdocs/blob/master/Content/Images/Manual%20Usuario%20ATIONet/Flotas/Vales%20Administracion.png)
+
+Asimismo, se puede descargar en forma Excel un reporte con el listado de las ordenes que se visualizan en la grilla. 
+
+Además, desde la columna Opciones se podrán imprimir de manera individual las ordenes con el detalle de los vales generados.
+
 
 # Liquidaciones
 
