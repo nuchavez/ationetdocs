@@ -624,7 +624,7 @@ Las transacciones sin control son aquellas que se generan porque el controlador 
 ## Vales
 Dentro de esta sección se puede ver un listado de todos los vales creados por las compañías. Para facilitar las consultas, hay un panel de filtros en la parte superior.
 
-![Vales](https://github.com/Ationet/ationetdocs/blob/master/Content/Images/Manual%20Usuario%20ATIONet/Administraci%C3%B3n/Vales.PNG)
+![Vales](https://github.com/nuchavez/ationetdocs/blob/master/Content/Images/Manual%20Usuario%20ATIONet/Flotas/Vales.PNG)
 
 ## Vales - Administración
 Dentro de esta sección se puede ver un listado de todas las ordenes de vales creados por las compañías de la Network. Para facilitar las consultas, hay un panel de filtros en la parte superior, en el cual se puede buscar por <i>Contrato, Programa, Fecha desde, Hora desde, Fecha hasta y Hora hasta</i>.
