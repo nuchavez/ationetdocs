@@ -29,6 +29,8 @@
 	- [Transacciones por Vehículo](#transacciones-por-vehículo)
 	- [Transacciones por Rechazadas](#transacciones-rechazadas)
 	- [Transacciones Sin Control](#transacciones-sin-control)
+	- [Vales](#vales)
+	- [Vales - Administración](#vales---administración)
 
 # Flotas
 Dentro de este módulo se pueden gestionar los Contratos de Compañía y Comercios, los Conceptos, las Contingencias y las Transacciones entre otras cosas.
@@ -618,6 +620,14 @@ En esta vista, al principio se puede filtrar por el tipo de rechazo. Los tipos d
 Las transacciones sin control son aquellas que se generan porque el controlador detecta una diferencia en los indicadores y envía una transacción por la diferencia. Estas transacciones no contienen datos sobre la identificación, ya que se generaron automáticamente y no se iniciaron con la presentación de un identificador. Al no tener un identificador asignado, no tienen impacto en ninguna cuenta corriente ni cuentan para el cálculo de las reglas.
 
 ![Transacciones sin control](https://github.com/Ationet/ationetdocs/blob/master/Content/Images/Manual%20Usuario%20ATIONet/Flotas/Transacciones%20Sin%20Control.PNG)
+
+## Vales
+Dentro de esta sección se puede ver un listado de todos los vales creados por las compañías. Para facilitar las consultas, hay un panel de filtros en la parte superior.
+
+![Vales](https://github.com/Ationet/ationetdocs/blob/master/Content/Images/Manual%20Usuario%20ATIONet/Administraci%C3%B3n/Vales.PNG)
+
+## Vales - Administración
+Dentro de esta sección se puede ver un listado de todos los vales creados por las compañías. Para facilitar las consultas, hay un panel de filtros en la parte superior.
 
 <br>
 
