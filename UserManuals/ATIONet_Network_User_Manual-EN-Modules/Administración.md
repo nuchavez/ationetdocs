@@ -27,7 +27,6 @@
   - [SKUs](#skus)
   - [Terminales/Controladores](#terminales--controladores)
   - [Usuarios](#usuarios)
-  - [Vales](#vales)
   - [Vehículos](#vehículo)
   - [Zonas](#zonas)
 
@@ -676,11 +675,6 @@ Los campos a completar son los siguientes:
 * **Entidad:** La entidad asignada al usuario.
 
 Cuando haya terminado de rellenar los campos, presione el botón **Guardar**.
-
-## Vales
-Dentro de esta sección se puede ver un listado de todos los vales creados por las compañías. Para facilitar las consultas, hay un panel de filtros en la parte superior.
-
-![Vales](https://github.com/Ationet/ationetdocs/blob/master/Content/Images/Manual%20Usuario%20ATIONet/Administraci%C3%B3n/Vales.PNG)
 
 ## Vehículo
 Esta vista muestra todos los vehículos que han sido creados. Recuerde que no es obligatorio cargar los vehículos para poder operar, sólo es necesario si decide asociar las identificaciones a los vehículos. Para facilitar las consultas, hay un panel de filtros en la parte superior.
