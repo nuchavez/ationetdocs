@@ -628,9 +628,12 @@ Dentro de esta sección se puede ver un listado de todos los vales creados por l
 
 ## Vales - Administración
 Dentro de esta sección se puede ver un listado de todas las ordenes de vales creados por las compañías de la Network. Para facilitar las consultas, hay un panel de filtros en la parte superior, en el cual se puede buscar por <i>Contrato, Programa, Fecha desde, Hora desde, Fecha hasta y Hora hasta</i>.
-Asimismo, se puede descargar en forma Excel un reporte con la información que se visualiza en la grilla. 
 
 ![Vales - Administración](https://github.com/nuchavez/ationetdocs/blob/master/Content/Images/Manual%20Usuario%20ATIONet/Flotas/Vales%20Administracion.png)
+
+Asimismo, se puede descargar en forma Excel un reporte con el listado de las ordenes que se visualizan en la grilla. 
+
+Además, desde la columna Opciones se podrán imprimir las ordenes que contienen los vales de manera individual.
 
 <br>
 
