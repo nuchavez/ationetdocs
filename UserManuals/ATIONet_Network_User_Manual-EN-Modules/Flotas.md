@@ -633,7 +633,7 @@ Dentro de esta sección se puede ver un listado de todas las ordenes de vales cr
 
 Asimismo, se puede descargar en forma Excel un reporte con el listado de las ordenes que se visualizan en la grilla. 
 
-Además, desde la columna Opciones se podrán imprimir las ordenes que contienen los vales de manera individual.
+Además, desde la columna Opciones se podrán imprimir de manera individual las ordenes con el detalle de los vales generados.
 
 <br>
 
